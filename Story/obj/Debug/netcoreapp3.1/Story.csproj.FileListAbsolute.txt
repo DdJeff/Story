@@ -1,0 +1,13 @@
+C:\Users\FAMILY\source\repos\Story\Story\bin\Debug\netcoreapp3.1\Story.exe
+C:\Users\FAMILY\source\repos\Story\Story\bin\Debug\netcoreapp3.1\Story.deps.json
+C:\Users\FAMILY\source\repos\Story\Story\bin\Debug\netcoreapp3.1\Story.runtimeconfig.json
+C:\Users\FAMILY\source\repos\Story\Story\bin\Debug\netcoreapp3.1\Story.runtimeconfig.dev.json
+C:\Users\FAMILY\source\repos\Story\Story\bin\Debug\netcoreapp3.1\Story.dll
+C:\Users\FAMILY\source\repos\Story\Story\bin\Debug\netcoreapp3.1\Story.pdb
+C:\Users\FAMILY\source\repos\Story\Story\obj\Debug\netcoreapp3.1\Story.csproj.AssemblyReference.cache
+C:\Users\FAMILY\source\repos\Story\Story\obj\Debug\netcoreapp3.1\Story.AssemblyInfoInputs.cache
+C:\Users\FAMILY\source\repos\Story\Story\obj\Debug\netcoreapp3.1\Story.AssemblyInfo.cs
+C:\Users\FAMILY\source\repos\Story\Story\obj\Debug\netcoreapp3.1\Story.csproj.CoreCompileInputs.cache
+C:\Users\FAMILY\source\repos\Story\Story\obj\Debug\netcoreapp3.1\Story.dll
+C:\Users\FAMILY\source\repos\Story\Story\obj\Debug\netcoreapp3.1\Story.pdb
+C:\Users\FAMILY\source\repos\Story\Story\obj\Debug\netcoreapp3.1\Story.genruntimeconfig.cache
